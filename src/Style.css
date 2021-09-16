@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: black;
+    color:whitesmoke;
+  
+    font-size: 20px;
+     
+    text-rendering: optimizeLegibility;
+}
+body{
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    max-width: 1350px;
+    margin: 0 auto ;/*contents are going in middle*/
+}
+section{
+    padding:80px 0 ;
+}
+
+.success-text{
+    text-align: center;
+    width: 50%;
+    height: 20vh;
+    margin: auto;
+    margin-top: 100px;
+}

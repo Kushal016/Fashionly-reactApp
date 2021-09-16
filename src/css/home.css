@@ -1,0 +1,18 @@
+.text-box{
+    position: absolute;
+   top: 30%;
+   left: 38%;
+    margin: auto;
+    text-align: center;
+}
+.text-box h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 600%;
+    font-weight: 80;
+    color: #cac4c4;
+}
+.text-box h2{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 60;
+    color: #cac4c4;
+}

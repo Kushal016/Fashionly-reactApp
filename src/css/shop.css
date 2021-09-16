@@ -1,0 +1,24 @@
+.content{
+    text-align: center;
+    width: 50%;
+    height: 20vh;
+    margin: auto;
+    margin-top: 100px;
+}
+.shop-now{
+    text-align: center;
+    margin: auto;
+}
+.shop-now a{
+    padding-top: 20px;
+      color: #fff;
+      text-decoration: none;
+      font-weight: 50%;
+      font-size: 200%;
+      border-bottom: 2px solid white;
+      transition: border-bottom 0.5s;
+}
+.shop-now a:hover{
+    color: rgb(202, 196, 196);
+    border-bottom: 2px solid #cac4c4;
+}
